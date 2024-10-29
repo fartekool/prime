@@ -1,0 +1,5 @@
+﻿  Prime numbers.cpp
+C:\Users\levon\source\repos\Prime numbers\Prime numbers\Prime numbers.cpp(54,37): warning C4244: 'argument': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\levon\source\repos\Prime numbers\Prime numbers\Prime numbers.cpp(97,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\levon\source\repos\Prime numbers\Prime numbers\Prime numbers.cpp(69,1): warning C4715: 'Rabin_Primality': not all control paths return a value
+  Prime numbers.vcxproj -> C:\Users\levon\source\repos\Prime numbers\Prime numbers\x64\Debug\Prime numbers.exe
