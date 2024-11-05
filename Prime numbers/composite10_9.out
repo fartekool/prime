@@ -1,0 +1,400 @@
+1) 872746611
+  Default test: 0   (1 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (30 microseconds)
+2) 343999143
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (39 microseconds)
+  Rabin test:   0   (25 microseconds)
+3) 931857635
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (69 microseconds)
+  Rabin test:   0   (43 microseconds)
+4) 633541055
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (64 microseconds)
+  Rabin test:   0   (30 microseconds)
+5) 149586939
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (27 microseconds)
+  Rabin test:   0   (27 microseconds)
+6) 731698409
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (31 microseconds)
+  Rabin test:   0   (45 microseconds)
+7) 228860415
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (42 microseconds)
+  Rabin test:   0   (56 microseconds)
+8) 840481715
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (46 microseconds)
+  Rabin test:   0   (31 microseconds)
+9) 443308099
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (27 microseconds)
+  Rabin test:   0   (27 microseconds)
+10) 788996389
+  Default test: 0   (178 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (29 microseconds)
+11) 278496347
+  Default test: 0   (2 microseconds)
+  Ferma test:   0   (39 microseconds)
+  Rabin test:   0   (26 microseconds)
+12) 202425393
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (42 microseconds)
+  Rabin test:   0   (23 microseconds)
+13) 600227961
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (28 microseconds)
+14) 667623305
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (31 microseconds)
+  Rabin test:   0   (31 microseconds)
+15) 297619227
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (28 microseconds)
+  Rabin test:   0   (29 microseconds)
+16) 801059395
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (31 microseconds)
+  Rabin test:   0   (31 microseconds)
+17) 273080645
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (25 microseconds)
+  Rabin test:   0   (25 microseconds)
+18) 360347203
+  Default test: 0   (1 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (42 microseconds)
+19) 672832145
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (28 microseconds)
+  Rabin test:   0   (27 microseconds)
+20) 985033281
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (30 microseconds)
+21) 244170757
+  Default test: 0   (14 microseconds)
+  Ferma test:   0   (24 microseconds)
+  Rabin test:   0   (24 microseconds)
+22) 775168631
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (30 microseconds)
+  Rabin test:   0   (29 microseconds)
+23) 236406993
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (26 microseconds)
+  Rabin test:   0   (26 microseconds)
+24) 384272583
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (56 microseconds)
+25) 928584225
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (57 microseconds)
+26) 244009951
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (28 microseconds)
+27) 767327587
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (32 microseconds)
+  Rabin test:   0   (32 microseconds)
+28) 460870973
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (29 microseconds)
+29) 662923969
+  Default test: 0   (4 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (30 microseconds)
+30) 765490601
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (30 microseconds)
+  Rabin test:   0   (30 microseconds)
+31) 818048905
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (28 microseconds)
+32) 652510869
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (29 microseconds)
+33) 428813271
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (31 microseconds)
+  Rabin test:   0   (30 microseconds)
+34) 847767633
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (33 microseconds)
+35) 719663617
+  Default test: 0   (27 microseconds)
+  Ferma test:   0   (27 microseconds)
+  Rabin test:   0   (28 microseconds)
+36) 387237149
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (27 microseconds)
+  Rabin test:   0   (28 microseconds)
+37) 230335123
+  Default test: 0   (6 microseconds)
+  Ferma test:   0   (42 microseconds)
+  Rabin test:   0   (27 microseconds)
+38) 180356491
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (23 microseconds)
+  Rabin test:   0   (23 microseconds)
+39) 785286945
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (30 microseconds)
+  Rabin test:   0   (30 microseconds)
+40) 326101101
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (30 microseconds)
+41) 778539817
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (30 microseconds)
+  Rabin test:   0   (30 microseconds)
+42) 509978499
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (29 microseconds)
+43) 158911675
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (26 microseconds)
+  Rabin test:   0   (27 microseconds)
+44) 612138667
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (46 microseconds)
+  Rabin test:   0   (32 microseconds)
+45) 821207865
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (30 microseconds)
+  Rabin test:   0   (29 microseconds)
+46) 912228281
+  Default test: 0   (20 microseconds)
+  Ferma test:   0   (34 microseconds)
+  Rabin test:   0   (35 microseconds)
+47) 876781595
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (27 microseconds)
+  Rabin test:   0   (28 microseconds)
+48) 985491113
+  Default test: 0   (5 microseconds)
+  Ferma test:   0   (33 microseconds)
+  Rabin test:   0   (32 microseconds)
+49) 604170937
+  Default test: 0   (31 microseconds)
+  Ferma test:   0   (28 microseconds)
+  Rabin test:   0   (28 microseconds)
+50) 334435139
+  Default test: 0   (1 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (29 microseconds)
+51) 488491729
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (27 microseconds)
+52) 664898445
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (30 microseconds)
+53) 725419955
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (31 microseconds)
+  Rabin test:   0   (31 microseconds)
+54) 270296623
+  Default test: 0   (1 microseconds)
+  Ferma test:   0   (26 microseconds)
+  Rabin test:   0   (44 microseconds)
+55) 741846765
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (32 microseconds)
+  Rabin test:   0   (32 microseconds)
+56) 238645805
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (27 microseconds)
+  Rabin test:   0   (27 microseconds)
+57) 166709587
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (28 microseconds)
+  Rabin test:   0   (28 microseconds)
+58) 455316387
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (28 microseconds)
+  Rabin test:   0   (28 microseconds)
+59) 559763943
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (30 microseconds)
+  Rabin test:   0   (30 microseconds)
+60) 697568187
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (46 microseconds)
+  Rabin test:   0   (59 microseconds)
+61) 697908393
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (30 microseconds)
+  Rabin test:   0   (29 microseconds)
+62) 996571349
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (32 microseconds)
+  Rabin test:   0   (32 microseconds)
+63) 774044727
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (30 microseconds)
+  Rabin test:   0   (31 microseconds)
+64) 530141515
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (29 microseconds)
+65) 198067667
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (27 microseconds)
+  Rabin test:   0   (27 microseconds)
+66) 258443753
+  Default test: 0   (85 microseconds)
+  Ferma test:   0   (28 microseconds)
+  Rabin test:   0   (28 microseconds)
+67) 449197861
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (41 microseconds)
+  Rabin test:   0   (56 microseconds)
+68) 572591139
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (26 microseconds)
+  Rabin test:   0   (27 microseconds)
+69) 443408403
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (27 microseconds)
+  Rabin test:   0   (44 microseconds)
+70) 827539947
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (30 microseconds)
+  Rabin test:   0   (30 microseconds)
+71) 112847125
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (25 microseconds)
+  Rabin test:   0   (25 microseconds)
+72) 189581139
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (26 microseconds)
+  Rabin test:   0   (26 microseconds)
+73) 233699249
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (30 microseconds)
+  Rabin test:   0   (30 microseconds)
+74) 906899307
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (31 microseconds)
+  Rabin test:   0   (31 microseconds)
+75) 744913555
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (30 microseconds)
+  Rabin test:   0   (30 microseconds)
+76) 440394885
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (31 microseconds)
+77) 447563831
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (41 microseconds)
+  Rabin test:   0   (28 microseconds)
+78) 578317439
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (31 microseconds)
+  Rabin test:   0   (31 microseconds)
+79) 927877505
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (29 microseconds)
+  Rabin test:   0   (29 microseconds)
+80) 171672095
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (26 microseconds)
+  Rabin test:   0   (26 microseconds)
+81) 432215289
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (28 microseconds)
+  Rabin test:   0   (28 microseconds)
+82) 303393547
+  Default test: 0   (82 microseconds)
+  Ferma test:   0   (26 microseconds)
+  Rabin test:   0   (26 microseconds)
+83) 831369453
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (31 microseconds)
+  Rabin test:   0   (32 microseconds)
+84) 553655711
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (28 microseconds)
+  Rabin test:   0   (27 microseconds)
+85) 164162637
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (27 microseconds)
+  Rabin test:   0   (26 microseconds)
+86) 676332025
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (27 microseconds)
+  Rabin test:   0   (27 microseconds)
+87) 394111301
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (45 microseconds)
+  Rabin test:   0   (30 microseconds)
+88) 522612311
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (30 microseconds)
+  Rabin test:   0   (44 microseconds)
+89) 582105155
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (27 microseconds)
+  Rabin test:   0   (27 microseconds)
+90) 768336027
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (32 microseconds)
+  Rabin test:   0   (45 microseconds)
+91) 633441633
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (28 microseconds)
+  Rabin test:   0   (28 microseconds)
+92) 178328853
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (24 microseconds)
+  Rabin test:   0   (23 microseconds)
+93) 793621535
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (32 microseconds)
+  Rabin test:   0   (32 microseconds)
+94) 673605383
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (28 microseconds)
+  Rabin test:   0   (28 microseconds)
+95) 691651425
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (30 microseconds)
+  Rabin test:   0   (28 microseconds)
+96) 861801271
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (31 microseconds)
+  Rabin test:   0   (31 microseconds)
+97) 664027823
+  Default test: 0   (175 microseconds)
+  Ferma test:   0   (30 microseconds)
+  Rabin test:   0   (30 microseconds)
+98) 501017815
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (76 microseconds)
+  Rabin test:   0   (61 microseconds)
+99) 867776077
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (31 microseconds)
+  Rabin test:   0   (28 microseconds)
+100) 531737401
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (44 microseconds)
+  Rabin test:   0   (30 microseconds)

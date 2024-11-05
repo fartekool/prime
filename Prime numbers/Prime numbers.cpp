@@ -5,27 +5,45 @@
 #include <fstream>
 #include <algorithm>
 #include <random>
+#include <chrono>
+unsigned long long ModMul(unsigned long long a, unsigned long long b, unsigned long long N) {
+    unsigned long long result = 0;
+    a = a % N;
 
-unsigned long long ModExp(unsigned long long x, unsigned long long y, unsigned long long N)
-{
-    if (y == 0)
-        return 1;
-    unsigned long long z = ModExp(x, y / 2, N);
-    z = ((z % N) * (z % N)) % N;
-    if (y % 2 == 0)
-        return z;
-    else
-        return ((x % N) * (z % N)) % N;
+    while (b > 0)
+    {
+        if (b % 2 == 1)
+        {
+            result = (result + a) % N;
+        }
+        a = (a * 2) % N;
+        b /= 2;
+    }
+    return result;
 }
+unsigned long long ModExp(unsigned long long base, unsigned long long exp, unsigned long long N) {
+    unsigned long long result = 1;
+    base = base % N;
 
+    while (exp > 0)
+    {
+        if (exp % 2 == 1)
+        {
+            result = ModMul(result, base, N);
+        }
+        exp = exp >> 1;
+        base = ModMul(base, base, N);
+    }
+    return result;
+}
 bool Rabin_Primality(unsigned long long N)
 {
     if (N <= 1) return false;
     if (N <= 3) return true;
     if (N % 2 == 0) return false;
 
-    //unsigned long long a = 1 + (rand() % (N - 1));
-    unsigned long long a = 2;
+    unsigned long long a = 1 + (rand() % (N - 1));
+    
     if (ModExp(a, N - 1, N) != 1)
         return false;
     else
@@ -62,8 +80,7 @@ bool Ferma_Primality(unsigned long long N)
     if (N <= 3) return true;
     if (N % 2 == 0) return false;
 
-    //unsigned long long a = 1 + (rand() % (N - 1));
-    unsigned long long a = 2;
+    unsigned long long a = 1 + (rand() % (N - 1));
     if (ModExp(a, N - 1, N) == 1)
         return true;
     else
@@ -108,7 +125,7 @@ int main()
     //std::cout << "Prime numbers by rabin_primality from 2 to " << X << " = " << rabin_count << std::endl;
     //std::cout << "Ferma_count - default_count = " << Ferma_count - default_count << std::endl;
     //std::cout << "rabin_count - default_count = " << rabin_count - default_count << std::endl;
-    /*std::ofstream outputFile("prime10_18.in");
+    /*std::ofstream outputFile("composite10_18.in");
     outputFile.clear();
     if (!outputFile)
         std::cerr << "Error" << std::endl;
@@ -119,7 +136,9 @@ int main()
     while (count < 100)
     {
         unsigned long long i = dist(gen);
-        if (Rabin_Primality(i))
+        while (i % 2 == 0)
+            i = dist(gen);
+        if (!Rabin_Primality(i) && !Ferma_Primality(i))
         {
             outputFile << i << std::endl;
             ++count;
@@ -129,7 +148,7 @@ int main()
 
 
 
-    /*std::ifstream inputFile("prime10_9.in");
+    std::ifstream inputFile("carlmichael.in");
     if (!inputFile)
         std::cerr << "Error" << std::endl;
     std::vector<unsigned long long> numbers;
@@ -138,19 +157,37 @@ int main()
         numbers.push_back(num);
     inputFile.close();
 
-    std::ofstream outputFile("prime10_9.out");
+    std::ofstream outputFile("carlmichael.out");
     outputFile.clear();
     if (!outputFile)
         std::cerr << "Error" << std::endl;
+    int count = 1;
     for (unsigned long long i : numbers)
     {
-        outputFile << i << ' ' << Ferma_Primality(i) << ' ' << Rabin_Primality(i) << std::endl;
+        outputFile << count << ") " << i << std::endl;
+        outputFile << "  " << "Default test: ";
+        auto start = std::chrono::steady_clock::now();
+        bool def = Default_Primality(i);
+        auto end = std::chrono::steady_clock::now();
+        outputFile << def << "   (" << std::chrono::duration_cast<std::chrono::microseconds>(end - start).count() << " microseconds)" << std::endl;
+
+        outputFile << "  " << "Ferma test:   ";
+        start = std::chrono::steady_clock::now();
+        bool ferma = Ferma_Primality(i);
+        end = std::chrono::steady_clock::now();
+        outputFile << ferma << "   (" << std::chrono::duration_cast<std::chrono::microseconds>(end - start).count() << " microseconds)" << std::endl;
+
+        outputFile << "  " << "Rabin test:   ";
+        start = std::chrono::steady_clock::now();
+        bool rabin = Rabin_Primality(i);
+        end = std::chrono::steady_clock::now();
+        outputFile << rabin << "   (" << std::chrono::duration_cast<std::chrono::microseconds>(end - start).count() << " microseconds)" << std::endl;
+        ++count;
+        std::cout << count;
     }
-    outputFile.close();*/
-    unsigned long long a = 100000000000000003;
-    unsigned long long b = 620401703;
+    outputFile.close();
     
-    std::cout << Default_Primality(a) << Ferma_Primality(a) << Rabin_Primality(a);
+    
     return 0;
 }
 

@@ -1,0 +1,400 @@
+1) 597590630925272139
+  Default test: 0   (1 microseconds)
+  Ferma test:   0   (114 microseconds)
+  Rabin test:   0   (116 microseconds)
+2) 516152703881097781
+  Default test: 0   (18 microseconds)
+  Ferma test:   0   (135 microseconds)
+  Rabin test:   0   (119 microseconds)
+3) 136714916516638355
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (115 microseconds)
+  Rabin test:   0   (115 microseconds)
+4) 310428906190036335
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (120 microseconds)
+  Rabin test:   0   (121 microseconds)
+5) 112459629010574879
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (120 microseconds)
+  Rabin test:   0   (122 microseconds)
+6) 167342399081804943
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (113 microseconds)
+  Rabin test:   0   (112 microseconds)
+7) 243630482698613611
+  Default test: 0   (20 microseconds)
+  Ferma test:   0   (115 microseconds)
+  Rabin test:   0   (118 microseconds)
+8) 617351861695489501
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (121 microseconds)
+  Rabin test:   0   (123 microseconds)
+9) 878785270287445283
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (114 microseconds)
+  Rabin test:   0   (115 microseconds)
+10) 702224246116183313
+  Default test: 0   (20 microseconds)
+  Ferma test:   0   (129 microseconds)
+  Rabin test:   0   (131 microseconds)
+11) 140563133504433797
+  Default test: 0   (203 microseconds)
+  Ferma test:   0   (111 microseconds)
+  Rabin test:   0   (111 microseconds)
+12) 774153123743434937
+  Default test: 0   (61 microseconds)
+  Ferma test:   0   (121 microseconds)
+  Rabin test:   0   (123 microseconds)
+13) 130281741885402563
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (117 microseconds)
+  Rabin test:   0   (115 microseconds)
+14) 175221899592938327
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (114 microseconds)
+  Rabin test:   0   (114 microseconds)
+15) 270148125643673483
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (125 microseconds)
+  Rabin test:   0   (123 microseconds)
+16) 487691299675211609
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (117 microseconds)
+  Rabin test:   0   (116 microseconds)
+17) 495571746297417321
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (119 microseconds)
+  Rabin test:   0   (121 microseconds)
+18) 400926530993790689
+  Default test: 0   (16 microseconds)
+  Ferma test:   0   (113 microseconds)
+  Rabin test:   0   (113 microseconds)
+19) 855339471175882247
+  Default test: 0   (5 microseconds)
+  Ferma test:   0   (130 microseconds)
+  Rabin test:   0   (131 microseconds)
+20) 768268736225548683
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (118 microseconds)
+  Rabin test:   0   (161 microseconds)
+21) 608412251591018687
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (131 microseconds)
+  Rabin test:   0   (128 microseconds)
+22) 784176260157363731
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (138 microseconds)
+  Rabin test:   0   (125 microseconds)
+23) 716059113172310547
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (183 microseconds)
+  Rabin test:   0   (124 microseconds)
+24) 726267136995848715
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (117 microseconds)
+  Rabin test:   0   (120 microseconds)
+25) 797298871482289063
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (117 microseconds)
+  Rabin test:   0   (115 microseconds)
+26) 206446432229480937
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (151 microseconds)
+  Rabin test:   0   (137 microseconds)
+27) 503761649359829925
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (125 microseconds)
+  Rabin test:   0   (121 microseconds)
+28) 195276809419301045
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (112 microseconds)
+  Rabin test:   0   (113 microseconds)
+29) 802988408637828501
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (119 microseconds)
+  Rabin test:   0   (120 microseconds)
+30) 413999533745611691
+  Default test: 0   (67 microseconds)
+  Ferma test:   0   (119 microseconds)
+  Rabin test:   0   (120 microseconds)
+31) 762955311202530135
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (156 microseconds)
+  Rabin test:   0   (142 microseconds)
+32) 484697612019747029
+  Default test: 0   (9834 microseconds)
+  Ferma test:   0   (136 microseconds)
+  Rabin test:   0   (163 microseconds)
+33) 560553120852466391
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (177 microseconds)
+  Rabin test:   0   (144 microseconds)
+34) 331245115907221089
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (116 microseconds)
+  Rabin test:   0   (118 microseconds)
+35) 847196849729921927
+  Default test: 0   (1 microseconds)
+  Ferma test:   0   (126 microseconds)
+  Rabin test:   0   (126 microseconds)
+36) 952086141155251763
+  Default test: 0   (5 microseconds)
+  Ferma test:   0   (128 microseconds)
+  Rabin test:   0   (125 microseconds)
+37) 818278482443979579
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (130 microseconds)
+  Rabin test:   0   (129 microseconds)
+38) 144389068580760229
+  Default test: 0   (14055 microseconds)
+  Ferma test:   0   (108 microseconds)
+  Rabin test:   0   (109 microseconds)
+39) 840863961699087509
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (120 microseconds)
+  Rabin test:   0   (119 microseconds)
+40) 644591225356620623
+  Default test: 0   (103 microseconds)
+  Ferma test:   0   (118 microseconds)
+  Rabin test:   0   (119 microseconds)
+41) 970815772912350295
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (123 microseconds)
+  Rabin test:   0   (122 microseconds)
+42) 539397991981148219
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (118 microseconds)
+  Rabin test:   0   (118 microseconds)
+43) 127596693878519487
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (107 microseconds)
+  Rabin test:   0   (110 microseconds)
+44) 484309147139817867
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (118 microseconds)
+  Rabin test:   0   (119 microseconds)
+45) 143836263046036151
+  Default test: 0   (39 microseconds)
+  Ferma test:   0   (161 microseconds)
+  Rabin test:   0   (113 microseconds)
+46) 802237144755683341
+  Default test: 0   (23 microseconds)
+  Ferma test:   0   (160 microseconds)
+  Rabin test:   0   (196 microseconds)
+47) 933977454746795665
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (199 microseconds)
+  Rabin test:   0   (225 microseconds)
+48) 338339974507405471
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (111 microseconds)
+  Rabin test:   0   (111 microseconds)
+49) 325827251401896073
+  Default test: 0   (1 microseconds)
+  Ferma test:   0   (111 microseconds)
+  Rabin test:   0   (111 microseconds)
+50) 850997620454702445
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (136 microseconds)
+  Rabin test:   0   (135 microseconds)
+51) 411751063276313879
+  Default test: 0   (1309698 microseconds)
+  Ferma test:   0   (121 microseconds)
+  Rabin test:   0   (120 microseconds)
+52) 398203526806774885
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (117 microseconds)
+  Rabin test:   0   (118 microseconds)
+53) 308020253494117081
+  Default test: 0   (2180982 microseconds)
+  Ferma test:   0   (109 microseconds)
+  Rabin test:   0   (110 microseconds)
+54) 321117242778420571
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (117 microseconds)
+  Rabin test:   0   (119 microseconds)
+55) 617287290127915863
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (111 microseconds)
+  Rabin test:   0   (110 microseconds)
+56) 605873552563559611
+  Default test: 0   (1 microseconds)
+  Ferma test:   0   (123 microseconds)
+  Rabin test:   0   (124 microseconds)
+57) 395372702216806293
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (119 microseconds)
+  Rabin test:   0   (118 microseconds)
+58) 496145345894963379
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (112 microseconds)
+  Rabin test:   0   (111 microseconds)
+59) 310919932520719249
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (107 microseconds)
+  Rabin test:   0   (107 microseconds)
+60) 361603544402007329
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (111 microseconds)
+  Rabin test:   0   (112 microseconds)
+61) 654811453472150767
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (117 microseconds)
+  Rabin test:   0   (117 microseconds)
+62) 355804818328079463
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (113 microseconds)
+  Rabin test:   0   (114 microseconds)
+63) 360341823315803217
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (111 microseconds)
+  Rabin test:   0   (111 microseconds)
+64) 258936467740065683
+  Default test: 0   (2 microseconds)
+  Ferma test:   0   (120 microseconds)
+  Rabin test:   0   (120 microseconds)
+65) 626724502355368171
+  Default test: 0   (521 microseconds)
+  Ferma test:   0   (121 microseconds)
+  Rabin test:   0   (120 microseconds)
+66) 963361713321398513
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (127 microseconds)
+  Rabin test:   0   (134 microseconds)
+67) 681865060735881737
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (121 microseconds)
+  Rabin test:   0   (149 microseconds)
+68) 415354084120634631
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (136 microseconds)
+  Rabin test:   0   (109 microseconds)
+69) 774395812825572651
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (157 microseconds)
+  Rabin test:   0   (180 microseconds)
+70) 843258042001422239
+  Default test: 0   (1 microseconds)
+  Ferma test:   0   (182 microseconds)
+  Rabin test:   0   (179 microseconds)
+71) 976736506788459437
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (173 microseconds)
+  Rabin test:   0   (125 microseconds)
+72) 261449597488132973
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (143 microseconds)
+  Rabin test:   0   (135 microseconds)
+73) 444217368856914047
+  Default test: 0   (442652 microseconds)
+  Ferma test:   0   (118 microseconds)
+  Rabin test:   0   (120 microseconds)
+74) 994129681522624389
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (127 microseconds)
+  Rabin test:   0   (129 microseconds)
+75) 880047487461864845
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (122 microseconds)
+  Rabin test:   0   (123 microseconds)
+76) 247937820439209481
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (110 microseconds)
+  Rabin test:   0   (109 microseconds)
+77) 385683563869475329
+  Default test: 0   (8 microseconds)
+  Ferma test:   0   (109 microseconds)
+  Rabin test:   0   (108 microseconds)
+78) 952907702970376769
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (113 microseconds)
+  Rabin test:   0   (114 microseconds)
+79) 492972709606515859
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (110 microseconds)
+  Rabin test:   0   (112 microseconds)
+80) 648760970024709661
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (119 microseconds)
+  Rabin test:   0   (120 microseconds)
+81) 197954424215534961
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (108 microseconds)
+  Rabin test:   0   (109 microseconds)
+82) 458485025639386679
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (115 microseconds)
+  Rabin test:   0   (116 microseconds)
+83) 317427758807449321
+  Default test: 0   (4 microseconds)
+  Ferma test:   0   (127 microseconds)
+  Rabin test:   0   (122 microseconds)
+84) 343328536638645883
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (140 microseconds)
+  Rabin test:   0   (142 microseconds)
+85) 484829570336870861
+  Default test: 0   (5 microseconds)
+  Ferma test:   0   (123 microseconds)
+  Rabin test:   0   (122 microseconds)
+86) 296253282376050189
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (111 microseconds)
+  Rabin test:   0   (109 microseconds)
+87) 325975980241951663
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (116 microseconds)
+  Rabin test:   0   (117 microseconds)
+88) 515452051117009185
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (114 microseconds)
+  Rabin test:   0   (114 microseconds)
+89) 410447783181835783
+  Default test: 0   (125 microseconds)
+  Ferma test:   0   (114 microseconds)
+  Rabin test:   0   (114 microseconds)
+90) 128864822888757757
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (158 microseconds)
+  Rabin test:   0   (120 microseconds)
+91) 869964703275794201
+  Default test: 0   (3990 microseconds)
+  Ferma test:   0   (120 microseconds)
+  Rabin test:   0   (120 microseconds)
+92) 795159732023339697
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (118 microseconds)
+  Rabin test:   0   (118 microseconds)
+93) 544665305642243523
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (113 microseconds)
+  Rabin test:   0   (113 microseconds)
+94) 598830047932519517
+  Default test: 0   (1 microseconds)
+  Ferma test:   0   (120 microseconds)
+  Rabin test:   0   (123 microseconds)
+95) 463581611649156949
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (113 microseconds)
+  Rabin test:   0   (113 microseconds)
+96) 773272884876323487
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (128 microseconds)
+  Rabin test:   0   (128 microseconds)
+97) 951514140217286679
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (118 microseconds)
+  Rabin test:   0   (119 microseconds)
+98) 228915271151798965
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (115 microseconds)
+  Rabin test:   0   (115 microseconds)
+99) 764631418966968723
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (116 microseconds)
+  Rabin test:   0   (117 microseconds)
+100) 586296233777907215
+  Default test: 0   (0 microseconds)
+  Ferma test:   0   (118 microseconds)
+  Rabin test:   0   (120 microseconds)

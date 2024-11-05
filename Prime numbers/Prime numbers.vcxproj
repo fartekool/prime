@@ -133,6 +133,14 @@
     <Text Include="prime10_3.in" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="carlmichael.in" />
+    <None Include="carlmichael.out" />
+    <None Include="composite10_18.in" />
+    <None Include="composite10_18.out" />
+    <None Include="composite10_3.in" />
+    <None Include="composite10_3.out" />
+    <None Include="composite10_9.in" />
+    <None Include="composite10_9.out" />
     <None Include="prime10_18.in" />
     <None Include="prime10_18.out" />
     <None Include="prime10_3.out" />

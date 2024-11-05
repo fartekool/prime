@@ -1,168 +1,672 @@
-2 1 1
-3 1 1
-5 1 1
-7 1 1
-11 1 1
-13 1 1
-17 1 1
-19 1 1
-23 1 1
-29 1 1
-31 1 1
-37 1 1
-41 1 1
-43 1 1
-47 1 1
-53 1 1
-59 1 1
-61 1 1
-67 1 1
-71 1 1
-73 1 1
-79 1 1
-83 1 1
-89 1 1
-97 1 1
-101 1 1
-103 1 1
-107 1 1
-109 1 1
-113 1 1
-127 1 1
-131 1 1
-137 1 1
-139 1 1
-149 1 1
-151 1 1
-157 1 1
-163 1 1
-167 1 1
-173 1 1
-179 1 1
-181 1 1
-191 1 1
-193 1 1
-197 1 1
-199 1 1
-211 1 1
-223 1 1
-227 1 1
-229 1 1
-233 1 1
-239 1 1
-241 1 1
-251 1 1
-257 1 1
-263 1 1
-269 1 1
-271 1 1
-277 1 1
-281 1 1
-283 1 1
-293 1 1
-307 1 1
-311 1 1
-313 1 1
-317 1 1
-331 1 1
-337 1 1
-347 1 1
-349 1 1
-353 1 1
-359 1 1
-367 1 1
-373 1 1
-379 1 1
-383 1 1
-389 1 1
-397 1 1
-401 1 1
-409 1 1
-419 1 1
-421 1 1
-431 1 1
-433 1 1
-439 1 1
-443 1 1
-449 1 1
-457 1 1
-461 1 1
-463 1 1
-467 1 1
-479 1 1
-487 1 1
-491 1 1
-499 1 1
-503 1 1
-509 1 1
-521 1 1
-523 1 1
-541 1 1
-547 1 1
-557 1 1
-563 1 1
-569 1 1
-571 1 1
-577 1 1
-587 1 1
-593 1 1
-599 1 1
-601 1 1
-607 1 1
-613 1 1
-617 1 1
-619 1 1
-631 1 1
-641 1 1
-643 1 1
-647 1 1
-653 1 1
-659 1 1
-661 1 1
-673 1 1
-677 1 1
-683 1 1
-691 1 1
-701 1 1
-709 1 1
-719 1 1
-727 1 1
-733 1 1
-739 1 1
-743 1 1
-751 1 1
-757 1 1
-761 1 1
-769 1 1
-773 1 1
-787 1 1
-797 1 1
-809 1 1
-811 1 1
-821 1 1
-823 1 1
-827 1 1
-829 1 1
-839 1 1
-853 1 1
-857 1 1
-859 1 1
-863 1 1
-877 1 1
-881 1 1
-883 1 1
-887 1 1
-907 1 1
-911 1 1
-919 1 1
-929 1 1
-937 1 1
-941 1 1
-947 1 1
-953 1 1
-967 1 1
-971 1 1
-977 1 1
-983 1 1
-991 1 1
-997 1 1
+1) 2
+  Default test: 1   (100 ns)
+  Ferma test:   1   (100 ns)
+  Rabin test:   1   (400 ns)
+2) 3
+  Default test: 1   (100 ns)
+  Ferma test:   1   (100 ns)
+  Rabin test:   1   (100 ns)
+3) 5
+  Default test: 1   (1700 ns)
+  Ferma test:   1   (700 ns)
+  Rabin test:   1   (10500 ns)
+4) 7
+  Default test: 1   (200 ns)
+  Ferma test:   1   (600 ns)
+  Rabin test:   1   (3300 ns)
+5) 11
+  Default test: 1   (100 ns)
+  Ferma test:   1   (700 ns)
+  Rabin test:   1   (3800 ns)
+6) 13
+  Default test: 1   (200 ns)
+  Ferma test:   1   (800 ns)
+  Rabin test:   1   (4700 ns)
+7) 17
+  Default test: 1   (200 ns)
+  Ferma test:   1   (800 ns)
+  Rabin test:   1   (5100 ns)
+8) 19
+  Default test: 1   (100 ns)
+  Ferma test:   1   (400 ns)
+  Rabin test:   1   (4600 ns)
+9) 23
+  Default test: 1   (200 ns)
+  Ferma test:   1   (900 ns)
+  Rabin test:   1   (7100 ns)
+10) 29
+  Default test: 1   (200 ns)
+  Ferma test:   1   (1300 ns)
+  Rabin test:   1   (6500 ns)
+11) 31
+  Default test: 1   (100 ns)
+  Ferma test:   1   (1200 ns)
+  Rabin test:   1   (4900 ns)
+12) 37
+  Default test: 1   (200 ns)
+  Ferma test:   1   (1100 ns)
+  Rabin test:   1   (5100 ns)
+13) 41
+  Default test: 1   (400 ns)
+  Ferma test:   1   (1400 ns)
+  Rabin test:   1   (9000 ns)
+14) 43
+  Default test: 1   (100 ns)
+  Ferma test:   1   (1200 ns)
+  Rabin test:   1   (5700 ns)
+15) 47
+  Default test: 1   (200 ns)
+  Ferma test:   1   (1400 ns)
+  Rabin test:   1   (6000 ns)
+16) 53
+  Default test: 1   (200 ns)
+  Ferma test:   1   (1400 ns)
+  Rabin test:   1   (6500 ns)
+17) 59
+  Default test: 1   (200 ns)
+  Ferma test:   1   (1600 ns)
+  Rabin test:   1   (6600 ns)
+18) 61
+  Default test: 1   (200 ns)
+  Ferma test:   1   (1600 ns)
+  Rabin test:   1   (8600 ns)
+19) 67
+  Default test: 1   (200 ns)
+  Ferma test:   1   (1500 ns)
+  Rabin test:   1   (6200 ns)
+20) 71
+  Default test: 1   (300 ns)
+  Ferma test:   1   (1600 ns)
+  Rabin test:   1   (6500 ns)
+21) 73
+  Default test: 1   (200 ns)
+  Ferma test:   1   (1200 ns)
+  Rabin test:   1   (7500 ns)
+22) 79
+  Default test: 1   (200 ns)
+  Ferma test:   1   (1900 ns)
+  Rabin test:   1   (7600 ns)
+23) 83
+  Default test: 1   (200 ns)
+  Ferma test:   1   (1700 ns)
+  Rabin test:   1   (6400 ns)
+24) 89
+  Default test: 1   (200 ns)
+  Ferma test:   1   (1700 ns)
+  Rabin test:   1   (9800 ns)
+25) 97
+  Default test: 1   (300 ns)
+  Ferma test:   1   (1700 ns)
+  Rabin test:   1   (11400 ns)
+26) 101
+  Default test: 1   (200 ns)
+  Ferma test:   1   (2000 ns)
+  Rabin test:   1   (8700 ns)
+27) 103
+  Default test: 1   (200 ns)
+  Ferma test:   1   (2100 ns)
+  Rabin test:   1   (7000 ns)
+28) 107
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2100 ns)
+  Rabin test:   1   (7200 ns)
+29) 109
+  Default test: 1   (200 ns)
+  Ferma test:   1   (1900 ns)
+  Rabin test:   1   (8300 ns)
+30) 113
+  Default test: 1   (200 ns)
+  Ferma test:   1   (1800 ns)
+  Rabin test:   1   (11500 ns)
+31) 127
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2500 ns)
+  Rabin test:   1   (7700 ns)
+32) 131
+  Default test: 1   (200 ns)
+  Ferma test:   1   (1700 ns)
+  Rabin test:   1   (6600 ns)
+33) 137
+  Default test: 1   (300 ns)
+  Ferma test:   1   (1700 ns)
+  Rabin test:   1   (8200 ns)
+34) 139
+  Default test: 1   (200 ns)
+  Ferma test:   1   (2100 ns)
+  Rabin test:   1   (7600 ns)
+35) 149
+  Default test: 1   (200 ns)
+  Ferma test:   1   (1900 ns)
+  Rabin test:   1   (9200 ns)
+36) 151
+  Default test: 1   (200 ns)
+  Ferma test:   1   (2100 ns)
+  Rabin test:   1   (7200 ns)
+37) 157
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2100 ns)
+  Rabin test:   1   (10500 ns)
+38) 163
+  Default test: 1   (300 ns)
+  Ferma test:   1   (1900 ns)
+  Rabin test:   1   (7500 ns)
+39) 167
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2200 ns)
+  Rabin test:   1   (7100 ns)
+40) 173
+  Default test: 1   (200 ns)
+  Ferma test:   1   (2500 ns)
+  Rabin test:   1   (10300 ns)
+41) 179
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2000 ns)
+  Rabin test:   1   (8000 ns)
+42) 181
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2300 ns)
+  Rabin test:   1   (10100 ns)
+43) 191
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2600 ns)
+  Rabin test:   1   (8000 ns)
+44) 193
+  Default test: 1   (200 ns)
+  Ferma test:   1   (1100 ns)
+  Rabin test:   1   (14400 ns)
+45) 197
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2400 ns)
+  Rabin test:   1   (9600 ns)
+46) 199
+  Default test: 1   (200 ns)
+  Ferma test:   1   (2500 ns)
+  Rabin test:   1   (8000 ns)
+47) 211
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2200 ns)
+  Rabin test:   1   (8800 ns)
+48) 223
+  Default test: 1   (300 ns)
+  Ferma test:   1   (3000 ns)
+  Rabin test:   1   (9300 ns)
+49) 227
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2500 ns)
+  Rabin test:   1   (7900 ns)
+50) 229
+  Default test: 1   (200 ns)
+  Ferma test:   1   (2100 ns)
+  Rabin test:   1   (10800 ns)
+51) 233
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2300 ns)
+  Rabin test:   1   (10900 ns)
+52) 239
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2900 ns)
+  Rabin test:   1   (9400 ns)
+53) 241
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2600 ns)
+  Rabin test:   1   (15600 ns)
+54) 251
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2400 ns)
+  Rabin test:   1   (9900 ns)
+55) 257
+  Default test: 1   (300 ns)
+  Ferma test:   1   (1200 ns)
+  Rabin test:   1   (15100 ns)
+56) 263
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2500 ns)
+  Rabin test:   1   (8800 ns)
+57) 269
+  Default test: 1   (400 ns)
+  Ferma test:   1   (2600 ns)
+  Rabin test:   1   (11300 ns)
+58) 271
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2700 ns)
+  Rabin test:   1   (9200 ns)
+59) 277
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2500 ns)
+  Rabin test:   1   (11500 ns)
+60) 281
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2500 ns)
+  Rabin test:   1   (14400 ns)
+61) 283
+  Default test: 1   (400 ns)
+  Ferma test:   1   (2600 ns)
+  Rabin test:   1   (9800 ns)
+62) 293
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2500 ns)
+  Rabin test:   1   (12000 ns)
+63) 307
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2900 ns)
+  Rabin test:   1   (8900 ns)
+64) 311
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2800 ns)
+  Rabin test:   1   (9000 ns)
+65) 313
+  Default test: 1   (300 ns)
+  Ferma test:   1   (3000 ns)
+  Rabin test:   1   (14500 ns)
+66) 317
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2700 ns)
+  Rabin test:   1   (11200 ns)
+67) 331
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2800 ns)
+  Rabin test:   1   (9500 ns)
+68) 337
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2100 ns)
+  Rabin test:   1   (14200 ns)
+69) 347
+  Default test: 1   (300 ns)
+  Ferma test:   1   (3000 ns)
+  Rabin test:   1   (10100 ns)
+70) 349
+  Default test: 1   (400 ns)
+  Ferma test:   1   (2500 ns)
+  Rabin test:   1   (12900 ns)
+71) 353
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2700 ns)
+  Rabin test:   1   (17300 ns)
+72) 359
+  Default test: 1   (300 ns)
+  Ferma test:   1   (3000 ns)
+  Rabin test:   1   (9700 ns)
+73) 367
+  Default test: 1   (300 ns)
+  Ferma test:   1   (3200 ns)
+  Rabin test:   1   (9400 ns)
+74) 373
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3100 ns)
+  Rabin test:   1   (13200 ns)
+75) 379
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3300 ns)
+  Rabin test:   1   (11600 ns)
+76) 383
+  Default test: 1   (300 ns)
+  Ferma test:   1   (3600 ns)
+  Rabin test:   1   (11200 ns)
+77) 389
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2300 ns)
+  Rabin test:   1   (11900 ns)
+78) 397
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2900 ns)
+  Rabin test:   1   (11900 ns)
+79) 401
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2700 ns)
+  Rabin test:   1   (14500 ns)
+80) 409
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2900 ns)
+  Rabin test:   1   (15000 ns)
+81) 419
+  Default test: 1   (300 ns)
+  Ferma test:   1   (2900 ns)
+  Rabin test:   1   (10200 ns)
+82) 421
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3200 ns)
+  Rabin test:   1   (13300 ns)
+83) 431
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3000 ns)
+  Rabin test:   1   (8800 ns)
+84) 433
+  Default test: 1   (400 ns)
+  Ferma test:   1   (2200 ns)
+  Rabin test:   1   (17100 ns)
+85) 439
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3100 ns)
+  Rabin test:   1   (11000 ns)
+86) 443
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3600 ns)
+  Rabin test:   1   (10000 ns)
+87) 449
+  Default test: 1   (400 ns)
+  Ferma test:   1   (1500 ns)
+  Rabin test:   1   (20600 ns)
+88) 457
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3200 ns)
+  Rabin test:   1   (15100 ns)
+89) 461
+  Default test: 1   (300 ns)
+  Ferma test:   1   (3300 ns)
+  Rabin test:   1   (14100 ns)
+90) 463
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3400 ns)
+  Rabin test:   1   (10800 ns)
+91) 467
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3100 ns)
+  Rabin test:   1   (10700 ns)
+92) 479
+  Default test: 1   (400 ns)
+  Ferma test:   1   (4000 ns)
+  Rabin test:   1   (12100 ns)
+93) 487
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3500 ns)
+  Rabin test:   1   (10900 ns)
+94) 491
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3100 ns)
+  Rabin test:   1   (12600 ns)
+95) 499
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3200 ns)
+  Rabin test:   1   (10400 ns)
+96) 503
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3600 ns)
+  Rabin test:   1   (11100 ns)
+97) 509
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3900 ns)
+  Rabin test:   1   (14300 ns)
+98) 521
+  Default test: 1   (400 ns)
+  Ferma test:   1   (2900 ns)
+  Rabin test:   1   (14300 ns)
+99) 523
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3000 ns)
+  Rabin test:   1   (10300 ns)
+100) 541
+  Default test: 1   (400 ns)
+  Ferma test:   1   (2900 ns)
+  Rabin test:   1   (14500 ns)
+101) 547
+  Default test: 1   (500 ns)
+  Ferma test:   1   (3100 ns)
+  Rabin test:   1   (10400 ns)
+102) 557
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3300 ns)
+  Rabin test:   1   (14500 ns)
+103) 563
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3500 ns)
+  Rabin test:   1   (10800 ns)
+104) 569
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3400 ns)
+  Rabin test:   1   (16300 ns)
+105) 571
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3500 ns)
+  Rabin test:   1   (11700 ns)
+106) 577
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3000 ns)
+  Rabin test:   1   (20800 ns)
+107) 587
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3300 ns)
+  Rabin test:   1   (11600 ns)
+108) 593
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3100 ns)
+  Rabin test:   1   (18800 ns)
+109) 599
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3500 ns)
+  Rabin test:   1   (11500 ns)
+110) 601
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3000 ns)
+  Rabin test:   1   (16100 ns)
+111) 607
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3700 ns)
+  Rabin test:   1   (12300 ns)
+112) 613
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3200 ns)
+  Rabin test:   1   (13200 ns)
+113) 617
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3500 ns)
+  Rabin test:   1   (16000 ns)
+114) 619
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3300 ns)
+  Rabin test:   1   (11900 ns)
+115) 631
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3800 ns)
+  Rabin test:   1   (12200 ns)
+116) 641
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3100 ns)
+  Rabin test:   1   (20800 ns)
+117) 643
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3500 ns)
+  Rabin test:   1   (10300 ns)
+118) 647
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3500 ns)
+  Rabin test:   1   (11200 ns)
+119) 653
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3600 ns)
+  Rabin test:   1   (15000 ns)
+120) 659
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3200 ns)
+  Rabin test:   1   (11500 ns)
+121) 661
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3100 ns)
+  Rabin test:   1   (14900 ns)
+122) 673
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3400 ns)
+  Rabin test:   1   (20300 ns)
+123) 677
+  Default test: 1   (500 ns)
+  Ferma test:   1   (3400 ns)
+  Rabin test:   1   (14000 ns)
+124) 683
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3700 ns)
+  Rabin test:   1   (12500 ns)
+125) 691
+  Default test: 1   (500 ns)
+  Ferma test:   1   (3900 ns)
+  Rabin test:   1   (12400 ns)
+126) 701
+  Default test: 1   (500 ns)
+  Ferma test:   1   (3700 ns)
+  Rabin test:   1   (15700 ns)
+127) 709
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3500 ns)
+  Rabin test:   1   (15000 ns)
+128) 719
+  Default test: 1   (500 ns)
+  Ferma test:   1   (3600 ns)
+  Rabin test:   1   (12300 ns)
+129) 727
+  Default test: 1   (400 ns)
+  Ferma test:   1   (4000 ns)
+  Rabin test:   1   (12700 ns)
+130) 733
+  Default test: 1   (400 ns)
+  Ferma test:   1   (4100 ns)
+  Rabin test:   1   (16400 ns)
+131) 739
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3700 ns)
+  Rabin test:   1   (12000 ns)
+132) 743
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3700 ns)
+  Rabin test:   1   (13000 ns)
+133) 751
+  Default test: 1   (400 ns)
+  Ferma test:   1   (4300 ns)
+  Rabin test:   1   (13300 ns)
+134) 757
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3700 ns)
+  Rabin test:   1   (15700 ns)
+135) 761
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3600 ns)
+  Rabin test:   1   (19400 ns)
+136) 769
+  Default test: 1   (600 ns)
+  Ferma test:   1   (2700 ns)
+  Rabin test:   1   (23800 ns)
+137) 773
+  Default test: 1   (500 ns)
+  Ferma test:   1   (3300 ns)
+  Rabin test:   1   (13900 ns)
+138) 787
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3500 ns)
+  Rabin test:   1   (11400 ns)
+139) 797
+  Default test: 1   (400 ns)
+  Ferma test:   1   (2800 ns)
+  Rabin test:   1   (14100 ns)
+140) 809
+  Default test: 1   (500 ns)
+  Ferma test:   1   (3600 ns)
+  Rabin test:   1   (18700 ns)
+141) 811
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3700 ns)
+  Rabin test:   1   (12400 ns)
+142) 821
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3800 ns)
+  Rabin test:   1   (15300 ns)
+143) 823
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3900 ns)
+  Rabin test:   1   (12500 ns)
+144) 827
+  Default test: 1   (500 ns)
+  Ferma test:   1   (3700 ns)
+  Rabin test:   1   (12400 ns)
+145) 829
+  Default test: 1   (500 ns)
+  Ferma test:   1   (4100 ns)
+  Rabin test:   1   (16400 ns)
+146) 839
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3500 ns)
+  Rabin test:   1   (12900 ns)
+147) 853
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3700 ns)
+  Rabin test:   1   (14600 ns)
+148) 857
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3500 ns)
+  Rabin test:   1   (18800 ns)
+149) 859
+  Default test: 1   (500 ns)
+  Ferma test:   1   (4000 ns)
+  Rabin test:   1   (12900 ns)
+150) 863
+  Default test: 1   (400 ns)
+  Ferma test:   1   (4200 ns)
+  Rabin test:   1   (12800 ns)
+151) 877
+  Default test: 1   (500 ns)
+  Ferma test:   1   (4200 ns)
+  Rabin test:   1   (17500 ns)
+152) 881
+  Default test: 1   (400 ns)
+  Ferma test:   1   (2900 ns)
+  Rabin test:   1   (22100 ns)
+153) 883
+  Default test: 1   (500 ns)
+  Ferma test:   1   (4200 ns)
+  Rabin test:   1   (12600 ns)
+154) 887
+  Default test: 1   (500 ns)
+  Ferma test:   1   (4200 ns)
+  Rabin test:   1   (13600 ns)
+155) 907
+  Default test: 1   (500 ns)
+  Ferma test:   1   (3900 ns)
+  Rabin test:   1   (12500 ns)
+156) 911
+  Default test: 1   (400 ns)
+  Ferma test:   1   (4000 ns)
+  Rabin test:   1   (12700 ns)
+157) 919
+  Default test: 1   (500 ns)
+  Ferma test:   1   (4300 ns)
+  Rabin test:   1   (13400 ns)
+158) 929
+  Default test: 1   (500 ns)
+  Ferma test:   1   (3300 ns)
+  Rabin test:   1   (21900 ns)
+159) 937
+  Default test: 1   (500 ns)
+  Ferma test:   1   (3700 ns)
+  Rabin test:   1   (19200 ns)
+160) 941
+  Default test: 1   (500 ns)
+  Ferma test:   1   (3900 ns)
+  Rabin test:   1   (16100 ns)
+161) 947
+  Default test: 1   (500 ns)
+  Ferma test:   1   (3900 ns)
+  Rabin test:   1   (13100 ns)
+162) 953
+  Default test: 1   (400 ns)
+  Ferma test:   1   (3800 ns)
+  Rabin test:   1   (20200 ns)
+163) 967
+  Default test: 1   (500 ns)
+  Ferma test:   1   (4200 ns)
+  Rabin test:   1   (11900 ns)
+164) 971
+  Default test: 1   (500 ns)
+  Ferma test:   1   (3700 ns)
+  Rabin test:   1   (12400 ns)
+165) 977
+  Default test: 1   (500 ns)
+  Ferma test:   1   (4100 ns)
+  Rabin test:   1   (23200 ns)
+166) 983
+  Default test: 1   (500 ns)
+  Ferma test:   1   (4300 ns)
+  Rabin test:   1   (13600 ns)
+167) 991
+  Default test: 1   (500 ns)
+  Ferma test:   1   (4800 ns)
+  Rabin test:   1   (13200 ns)
+168) 997
+  Default test: 1   (500 ns)
+  Ferma test:   1   (3700 ns)
+  Rabin test:   1   (16500 ns)
