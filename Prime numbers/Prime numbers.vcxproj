@@ -146,6 +146,9 @@
     <None Include="prime10_3.out" />
     <None Include="prime10_9.in" />
     <None Include="prime10_9.out" />
+    <None Include="RSA.in" />
+    <None Include="RSA.middle" />
+    <None Include="RSA.out" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -6,6 +6,8 @@
 #include <algorithm>
 #include <random>
 #include <chrono>
+
+
 unsigned long long ModMul(unsigned long long a, unsigned long long b, unsigned long long N) {
     unsigned long long result = 0;
     a = a % N;
@@ -98,6 +100,115 @@ bool Default_Primality(unsigned long long N)
     }
     return true;
 }
+
+
+unsigned long long GenRandomPrime(int len)
+{
+    unsigned long long min = pow(10, len - 1);
+    unsigned long long max = pow(10, len) - 1;
+
+    std::random_device rd;
+    std::mt19937 gen(rd());
+    std::uniform_int_distribution<unsigned long long> dis(min, max);
+
+    unsigned long long RandomPrime;
+    do
+    {
+        RandomPrime = dis(gen);
+    } while (!Rabin_Primality(RandomPrime));
+    return RandomPrime;
+}
+
+unsigned long long GCD(unsigned long long a, unsigned long long b)
+{
+    while (b != 0)
+    {
+        unsigned long long tmp = b;
+        b = a % b;
+        a = tmp;
+    }
+    return a;
+}
+
+unsigned long long ModInverse(long long e, long long N) {
+    long long d = 0, new_d = 1;
+    long long r = N, new_r = e;
+
+    while (new_r != 0) {
+        long long quotient = r / new_r;
+
+        long long temp_d = d;
+        d = new_d;
+        new_d = temp_d - quotient * new_d;
+
+        long long temp_r = r;
+        r = new_r;
+        new_r = temp_r - quotient * new_r;
+    }
+
+    if (r > 1) return 0;
+    if (d < 0) d += N;
+    return d;
+}
+
+unsigned long long Encrypt(unsigned long long message, unsigned long long e, unsigned long long N)
+{
+    return ModExp(message, e, N);
+}
+unsigned long long Decrypt(unsigned long long ciphermessage, unsigned long long d, unsigned long long N)
+{
+    return ModExp(ciphermessage, d, N);
+}
+
+void RSA(const std::string& input_file, const std::string& middle_file, const std::string& output_file)
+{
+    unsigned long long message;
+    std::ifstream inputFile(input_file);
+    if (!inputFile)
+        std::cerr << "Error" << std::endl;
+    inputFile >> message;
+    int len;
+    inputFile >> len;
+    inputFile.close();
+    
+
+    unsigned long long p = GenRandomPrime(len);
+    unsigned long long q = GenRandomPrime(len);
+    unsigned long long N = p * q;
+    unsigned long long n = (p - 1) * (q - 1);
+
+    unsigned long long e = 3;
+    while (GCD(e, n) != 1)
+    {
+        e = 2 + rand() % (n - 2);
+    }
+
+
+    unsigned long long d = ModInverse(e, n);
+    unsigned long long encrypted_message = Encrypt(message, e, N);
+    std::ofstream middleFile(middle_file);
+    if (!middleFile)
+        std::cerr << "Error" << std::endl;
+    middleFile.clear();
+    middleFile << "Encrypted message: " << encrypted_message << std::endl;
+    middleFile << "Public key (e, N): " << '(' << e << ", " << N << ')' << std::endl;
+    middleFile << "Private key (d, N): " << '(' << d << ", " << N << ')' << std::endl;
+    middleFile.close();
+
+
+    unsigned long long decrypted_message = Decrypt(encrypted_message, d, N);
+    std::ofstream outputFile(output_file);
+    if (!outputFile)
+        std::cerr << "Error" << std::endl;
+    outputFile.clear();
+    outputFile << "Original message: " << message << std::endl;
+    outputFile << "Decrypted message: " << decrypted_message << std::endl;
+    outputFile << message << " == " << decrypted_message << " = " << (message == decrypted_message) << std::endl;
+    outputFile.close();
+
+
+}
+
 int main()
 {
     std::srand(time(NULL));
@@ -148,7 +259,7 @@ int main()
 
 
 
-    std::ifstream inputFile("carlmichael.in");
+    /*std::ifstream inputFile("carlmichael.in");
     if (!inputFile)
         std::cerr << "Error" << std::endl;
     std::vector<unsigned long long> numbers;
@@ -185,9 +296,17 @@ int main()
         ++count;
         std::cout << count;
     }
-    outputFile.close();
+    outputFile.close();*/
+
+
+
+
+    /*unsigned long long a = GenRandomPrime(9);
+    std::cout << a << std::endl;
+    std::cout << Default_Primality(a) << std::endl;*/
     
-    
+    RSA("RSA.in", "RSA.middle", "RSA.out");
+
     return 0;
 }
 
